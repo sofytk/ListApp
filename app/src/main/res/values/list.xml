@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forbes">
+        <item>Sophya Tkach</item>
+        <item>Mark Zuckenberg</item>
+        <item>Jeff Bezos</item>
+        <item>Bill Gates</item>
+        <item>Vasya Pupkin</item>
+        <item>Kaka Byaka</item>
+        <item>Bill Gates</item>
+        <item>Sophya Tkach</item>
+        <item>Mark Zuckenberg</item>
+        <item>Jeff Bezos</item>
+        <item>Bill Gates</item>
+        <item>Sophya Tkach</item>
+        <item>Mark Zuckenberg</item>
+        <item>Jeff Bezos</item>
+        <item>Bill Gates</item>
+    </string-array>
+</resources>

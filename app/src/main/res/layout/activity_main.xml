@@ -13,6 +13,7 @@
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
         android:textAlignment="center"
+        android:textColor="@color/white"
         android:text="Несвежие новости"
         android:layout_marginTop="20dp"
         android:textSize="40dp"
